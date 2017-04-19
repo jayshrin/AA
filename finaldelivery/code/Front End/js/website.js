@@ -1,6 +1,3 @@
-/**
- * Created by shubham on 4/25/2015.
- */
 'use strict';
 
 var app = angular.module('website', ['ngRoute']);
